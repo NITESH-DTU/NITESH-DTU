@@ -105,7 +105,7 @@ nitesh.passion  = ["AI Agents", "Full-Stack", "DSA"];
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Autonomous SQL Agent & BI Platform](https://github.com)
+### 🤖 [Autonomous SQL Agent & BI Platform]([https://github.com](https://github.com/NITESH-DTU/SQL_AGENT))
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -122,7 +122,7 @@ AI agent that converts **natural language → SQL** with autonomous self-correct
 </td>
 <td width="50%" valign="top">
 
-### 💼 [JobSift — Recruitment Platform](https://github.com)
+### 💼 [JobSift — Recruitment Platform]([https://github.com](https://github.com/NITESH-DTU/jobsift))
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
